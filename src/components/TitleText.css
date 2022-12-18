@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500&family=DotGothic16&display=swap');
+
+.title{
+    display: flex;
+    align-items: center;
+}
+
+.gameh1{
+    font-family: 'Cinzel', serif;
+    font-size: 48px;
+    margin-right: 16px;
+}
+
+.mergerh1{
+    font-family: 'DotGothic16', sans-serif;
+    font-size: 44px;
+    font-weight: bold;
+
+    
+    padding-bottom: 8px;    
+}
